@@ -1,5 +1,4 @@
-{
-  "scripts": {
+pts": {
     "test": "mocha"
   },
   "devDependencies": {
