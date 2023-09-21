@@ -18,7 +18,7 @@
     "semistandard": "^16.0.1"
   },
   "name": "0x06-unittests_in_js",
-  "description": "This directory contains ES6 Basics which marks the beginning of Software Engineering Backend Specialization at Alx-Holberton School",
+  "description": "Basics Backend Specialization at Alx-Holberton School",
   "version": "1.0.0",
   "main": ".eslintrc.js",
   "keywords": [],
